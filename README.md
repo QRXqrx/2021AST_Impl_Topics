@@ -1,15 +1,11 @@
 ## 方向一：PA for AI
 
-总计题目数量：2
-
 1. 复现：Dynamic Slicing for Deep Neural Networks [FSE’20]
 2. 复现：Symbolic execution for importance analysis and adversarial generation in neural networks [ISSRE’19] （重点是实现DNN转换成其他程序的部分）
 
 
 
 ## 方向二：Test Generation
-
-总计题目数量：6
 
 1. Regeneration的实现与拓展 [STVR’12]
 2. Evosuite与Evosuite-Seeding [FSE’11-Demo + ICST’10]
@@ -22,8 +18,6 @@
 
 ## 方向三：Oracle Problem
 
-总计题目数量：3
-
 1. 复现工具：SODS。Supporting Oracle Construction via Static Analysis [ASE’16]
 2. 复现工具：DODONA。Dodona: Automated oracle data set selection [ISSTA’14]
 3. 复现工具：MAODS。 Automated oracle creation support, or: How I learned to stop worrying about fault propagation and love mutation testing [ICSE’12]
@@ -31,8 +25,6 @@
 
 
 ## 方向四：Program Slicing
-
-总计题目数量：4
 
 #### 复现
 
@@ -48,11 +40,15 @@
 
 ## 方向五：Test Selection
 
-总计题目数量：3
-
 1. 复现：STARTS。STARTS: STAtic Regression Test Selection [ASE’17-Demo]
 2. 复现：Ekstazi。Ekstazi: Lightweight Test Selection [ICSE’15-Demo]
 3. 复现：Hybrid Regression Test Selection [ICSE’18]
+
+
+
+## 方向六：Specification Mining
+
+1. 复现：DSM。Deep Specification Mining [ISSTA'18]
 
 
 
