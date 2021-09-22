@@ -2,6 +2,8 @@
 
 NJU自动化测试2021源码分析方向题目仓库。作业的评分细则见**附件1**
 
+一些题目给出了实验对象，仓库链接：https://github.com/QRXqrx/2021-AutomatedSoftwareTesting
+
 #### 仓库结构
 
 - 每个题目一个文件夹，结合方向和编号进行查找
