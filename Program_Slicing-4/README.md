@@ -2,9 +2,9 @@
 
 **参考文献**：
 
-1. Test Case Purification for Improving Fault Localization
+1. **Test Case Purification for Improving Fault Localization**
 2. Dynamic Program Slicing
-3. A Survivor’s Guide to Java Program Analysis with Soot  
+3. **A Survivor’s Guide to Java Program Analysis with Soot**  
 
 **Tips**：
 

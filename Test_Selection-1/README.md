@@ -2,7 +2,7 @@
 
 **参考文献**：
 
-1. STARTS: STAtic Regression Test Selection    
+1. **STARTS: STAtic Regression Test Selection**    
 2. An Extensive Study of Static Regression Test Selection in Modern Software Evolution    
 
 **复现要点**：

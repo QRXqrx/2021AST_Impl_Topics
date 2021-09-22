@@ -3,7 +3,7 @@
 **参考文献**：
 
 1. Supporting Oracle Construction via Static Analysis
-2. Dodona: Automated Oracle Data Set Selection    
+2. **Dodona: Automated Oracle Data Set Selection**    
 3. The Oracle Problem in Software Testing: A Survey  
 
 **Tips**：

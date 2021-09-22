@@ -1,9 +1,9 @@
-## 复现：静态测试选择工具STARTS  
+## 复现：混合测试选择技术HyRTS  
 
 **参考文献**：
 
 1. An Extensive Study of Static Regression Test Selection in Modern Software Evolution      
-2. Hybrid Regression Test Selection  
+2. **Hybrid Regression Test Selection**  
 3. Practical Regression Test Selection with Dynamic File Dependencies  
 
 **复现要点**：

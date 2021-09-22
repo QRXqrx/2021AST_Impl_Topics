@@ -1,8 +1,8 @@
-## 复现：静态测试选择工具STARTS  
+## 复现：动态测试选择工具Ekstazi  
 
 **参考文献**：
 
-1. Ekstazi: Lightweight Test Selection     
+1. **Ekstazi: Lightweight Test Selection**     
 2. Practical Regression Test Selection with Dynamic File Dependencies  
 
 **复现要点**：

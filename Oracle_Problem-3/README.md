@@ -3,7 +3,7 @@
 **参考文献**：
 
 1. Supporting Oracle Construction via Static Analysis
-2. Automated Oracle Creation Support, or: How I Learned to Stop Worrying About Fault Propagation and Love Mutation Testing      
+2. **Automated Oracle Creation Support, or: How I Learned to Stop Worrying About Fault Propagation and Love Mutation Testing**    
 3. The Oracle Problem in Software Testing: A Survey  
 
 **Tips**：

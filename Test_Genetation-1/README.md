@@ -2,10 +2,10 @@
 
 **参考文献**：
 
-1. Test Data Regeneration : Generating New Test Data from Existing Test Data  
+1. **Test Data Regeneration : Generating New Test Data from Existing Test Data**  
 2. Search-based software test data generation: a survey
 
-**实验对象**：https://github.com/QRXqrx/2021-AutomatedSoftwareTesting
+**实验对象链接**：https://github.com/QRXqrx/2021-AutomatedSoftwareTesting
 
 **复现要点**：
 

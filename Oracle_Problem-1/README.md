@@ -2,7 +2,7 @@
 
 **参考文献**：
 
-1. Supporting Oracle Construction via Static Analysis  
+1. **Supporting Oracle Construction via Static Analysis**
 2. The Oracle Problem in Software Testing: A Survey  
 
 **Tips**：

@@ -2,7 +2,7 @@
 
 **参考文献**：
 
-1. Test Case Purification for Improving Fault Localization
+1. **Test Case Purification for Improving Fault Localization**
 2. Dynamic Program Slicing
 3. Program Slicing
 
