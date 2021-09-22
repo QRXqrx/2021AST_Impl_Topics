@@ -96,5 +96,5 @@
 
 ## 联系方式
 
-- 钱瑞祥：qrx@smail.nju.edu.cn
+- qrx@smail.nju.edu.cn
 
