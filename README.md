@@ -63,6 +63,9 @@ NJU自动化测试2021源码分析方向题目仓库。作业的评分细则见*
 4. 实现基于Soot实现的Java混合执行工具，关键：复现其中使用Soot插桩实现布尔表达式生成、收集的部分。
 5. 复现PyExZ3：面向python的符号执行
 6. 复现：Directed Test Suite Augmentation:Techniques and Tradeoffs [FSE’10]
+7. 复现：ConTesa: Directed Test Suite Augmentation for Concurrent Software  [TSE'18]
+8. 复现：Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation  [TSE'19]
+9. 复现：Efficient Test Generation Guided by Field Coverage Criteria [ASE'19]
 
 
 
@@ -99,6 +102,40 @@ NJU自动化测试2021源码分析方向题目仓库。作业的评分细则见*
 ## 方向六：Specification Mining
 
 1. 复现：DSM。Deep Specification Mining [ISSTA'18]
+
+
+
+## 方向七：AI for SE
+
+1. 复现CLCDSA。CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation  [ASE'19] （Code Representation）
+2. 复现WEBQA。Web Question Answering with Neurosymbolic Program Synthesis  (Code Representation, Program Synthesis) [PLDI'21]
+3. 复现NFRE 。A Lightweight Framework for Function Name Reassignment Based on Large-Scale Stripped Binaries  (Code Representation) [ISSTA'21]
+
+
+
+## 方向八：Program Repair
+
+1. 复现CPR。Concolic Program Repair [PLDI'21]
+
+
+
+## 方向九：Regression Testing
+
+1. 复现：Dependent-Test-Aware Regression Testing Techniques [ISSTA'20]
+2. 复现：Differential Regression Testing for REST APIs [ISSTA'20]
+3. 复现：Continuous Test Suite Failure Prediction  [ISSTA'21]
+
+
+
+## 方向十：Test Reduction
+
+1. 复现：An Empirical Study of JUnit Test-Suite Reduction [ISSRE'11]
+
+
+
+## 难度参考
+
+见**附件3**
 
 
 
